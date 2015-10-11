@@ -1,0 +1,81 @@
+
+{
+}
+	{
+	{
+	}
+	}
+		{
+		{
+		{
+		{
+		}
+		}
+		}
+		}
+			{
+			{
+			}
+			}
+				break;
+				break;
+		char buff[1024] = "~/./a.out";
+		char buff[buflen];
+		char comm[1024] = "/proc/";
+		char comme[1024] = "/proc/";
+		char commexec[1024] = "/cmdline";
+		char commstat[1024] = "/status";
+		char mem[100];
+		char mem[100],temp2[100],temp3[100];
+		char status[100];
+		char status[100];
+		char temp2[100],temp3[100],temp4[100],temp5[100];
+		char temp5[100];
+	else
+		fclose(fp);
+		fclose(fp);
+		fclose(fp); 
+		fgets(buff,1024,fp);
+			fgets(mem,100,fp);
+			fgets(mem,100,fp);
+			fgets(status,100,fp);
+			fgets(status,100,fp);
+		FILE * fp;
+		FILE * fp;
+		fp = fopen(comme,"r");
+		fp = fopen (comm, "r");
+		fp = fopen ("/proc/self/status", "r");
+		fscanf(fp,"%s %s",mem,temp2);
+		fscanf(fp, "%s %s",mem,temp3);
+		fscanf(fp,"%s %s",status,temp2);
+		fscanf(fp,"%s %s",status,temp3);
+	if(final[1] != NULL)
+			if(strstr(mem,"VmPeak") != NULL)
+			if(strstr(mem,"VmPeak") !=NULL)
+#include<echo.h>
+#include<errno.h>
+#include<fcntl.h>
+#include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
+#include<sys/types.h>
+#include<unistd.h>
+		int pid_curr = getpid();
+		int temp = 0;
+		int temp = 0; 
+		printf("Pid : %d\nStatus : %s\nMemory : %s\nExecutable Path : %s\n",pid_curr,temp2,temp3,buff);
+		printf("Pid : %s\nStatus : %s\nMemory : %s\nExecutable Path : %s\n",final[1],temp2,temp3,buff);
+//		printf("%s",shell);
+//		printf("%s",shell);
+		size_t buflen = 1024;
+		strcat(comm,commstat);
+		strcat(comme,commexec);
+		strcat(comme,final[1]);
+		strcat(comm,final[1]);
+			temp++;
+			temp++;
+void pinfo_func(char **final, char shell[])
+		while(1)
+		while(1)
+		while(temp != 1)
+		while(temp != 1)

@@ -1,0 +1,23 @@
+                                                                                     
+                                                                                          =====PHASE 1=====
+
+The shell code mimics:
+
+3 builtin commands
+1.cd
+2.pwd
+3.echo
+
+& most system commands with/without arguments.(ls, ls -lah, emacs etc)
+
+After going into the directory do the following:
+
+gcc shell.c
+./a.out
+
+CTRL+C exits from the shell. 
+
+
+Pinfo,psinfo & Background feature have been implemented(BONUS). 
+
+
